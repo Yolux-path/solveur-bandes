@@ -1,0 +1,4 @@
+*.o
+mini_prog
+test_linalg
+.DS_Store
